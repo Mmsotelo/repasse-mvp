@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1773919861345",
+    "slug": "honda-cr-v-20102011-vaapty-aracatuba-e9",
+    "code": "E****9",
+    "title": "Honda CR-V  2010/2011 | Repasse",
+    "store": "Vaapty Araçatuba",
+    "headline": "",
+    "callout": "",
+    "previousPrice": 0,
+    "note": "",
+    "model": "Honda CR-V ",
+    "year": "2010/2011",
+    "km": "319.982",
+    "transmission": "Manual",
+    "fuel": "Flex",
+    "plate": "E****9",
+    "fipe": 66976,
+    "price": 23976,
+    "options": [],
+    "positives": [
+      "IPVA 26 aberto",
+      "Suspensão ok",
+      "Motor feito (com nota)",
+      "Câmbio ok",
+      "Ar gelando",
+      "Interna boa",
+      "2 pneus bons"
+    ],
+    "attention": [
+      "4/5 peças pintura",
+      "2 pneus ruins",
+      "Parabrisa trincado",
+      "Volante gasto"
+    ],
+    "negotiator": {
+      "name": "Jonathan",
+      "phone": "5511915723724"
+    },
+    "coverImage": "/cars/crv.png",
+    "images": [
+      "/cars/crv.png"
+    ],
+    "evaluationUntil": "2026-03-31",
+    "updatedAt": "2026-03-19T11:31:01.345Z"
+  },
+  {
+    "id": "1773895478715",
+    "slug": "vwpolo-16-20102011-vaapty-braganca-paulista-e9",
+    "code": "E****9",
+    "title": "VW/Polo 1.6 2010/2011 | Repasse",
+    "store": "Vaapty Bragança Paulista",
+    "headline": "",
+    "callout": "",
+    "previousPrice": 0,
+    "note": "",
+    "model": "VW/Polo 1.6",
+    "year": "2010/2011",
+    "km": "319.982",
+    "transmission": "Manual",
+    "fuel": "Flex",
+    "plate": "E****9",
+    "fipe": 35976,
+    "price": 23976,
+    "options": [],
+    "positives": [
+      "IPVA 26 aberto",
+      "Suspensão ok",
+      "Motor feito (com nota)",
+      "Câmbio ok",
+      "Ar gelando",
+      "Interna boa",
+      "2 pneus bons"
+    ],
+    "attention": [
+      "4/5 peças pintura",
+      "2 pneus ruins",
+      "Parabrisa trincado",
+      "Volante gasto (10)"
+    ],
+    "negotiator": {
+      "name": "Jonathan",
+      "phone": "5518996627977"
+    },
+    "coverImage": "/cars/polo.png",
+    "images": [
+      "/cars/polo.png"
+    ],
+    "evaluationUntil": "2026-03-31",
+    "updatedAt": "2026-03-19T04:45:11.456Z"
+  }
+]
